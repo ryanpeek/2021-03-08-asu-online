@@ -22,7 +22,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
-Welcome!
+## Welcome!
 
 {% comment %}
 HEADER
