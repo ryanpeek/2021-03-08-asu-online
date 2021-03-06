@@ -356,7 +356,6 @@ of code below the Schedule `<h2>` header below with
 {% include custom-schedule.html %}
 {% endif %}
 
-<hr/>
 
 
 {% comment %}
