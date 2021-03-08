@@ -348,6 +348,8 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
+We'll be meeting via zoom at this [link](https://asu.zoom.us/j/86800316581).
+
 {% if site.carpentry == "swc" %}
 {% include custom-schedule.html %}
 {% elsif site.carpentry == "dc" %}
